@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ff9a4c-e98e-4d72-986e-7da84c153a2d" name="Changes" comment="" />
+    <list default="true" id="34ff9a4c-e98e-4d72-986e-7da84c153a2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/controllers/CaculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/repositories/ICaculatorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/repositories/impl/CaculatorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/services/ICaculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/services/impl/CaculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +22,12 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jJFk0qtf0NJTRmIn7lEVpg9la0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,8 +37,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Dowload/Module4/exercise/student",
+    "last_opened_file_path": "D:/Dowload/Module4/exercise/ss2/calculator/src/main/webapp/WEB-INF",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -40,6 +51,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Dowload\Module4\exercise\ss2\calculator\src\main\webapp\WEB-INF" />
+      <recent name="D:\Dowload\Module4\exercise\ss2\calculator\src\main\java\org\example\calculator" />
     </key>
   </component>
   <component name="RunManager">
@@ -81,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721097412069</updated>
       <workItem from="1721097413105" duration="1011000" />
+      <workItem from="1721118978103" duration="112000" />
     </task>
     <servers />
   </component>
